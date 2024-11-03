@@ -1,0 +1,6 @@
+Flask
+opencv-python
+mediapipe
+tensorflow==2.8.0
+numpy==1.21.5
+flask-cors==3.0.10
